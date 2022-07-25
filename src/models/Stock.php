@@ -90,7 +90,7 @@ public static function existsOnDb($name)
             CURLOPT_CUSTOMREQUEST => "GET",
             CURLOPT_HTTPHEADER => [
                 "X-RapidAPI-Host: ms-finance.p.rapidapi.com",
-                "X-RapidAPI-Key: fa92cfa170mshb7c660c26113533p1152c6jsnaea351473feb"
+                "X-RapidAPI-Key: YOUR-KEY-FROM-RAPID-API"
             ],
         ]);
 
@@ -124,7 +124,7 @@ public static function existsOnDb($name)
             CURLOPT_CUSTOMREQUEST => "GET",
             CURLOPT_HTTPHEADER => [
                 "X-RapidAPI-Host: ms-finance.p.rapidapi.com",
-                "X-RapidAPI-Key: fa92cfa170mshb7c660c26113533p1152c6jsnaea351473feb"
+                "X-RapidAPI-Key: YOUR-KEY-FROM-RAPID-API"
             ],
         ]);
 

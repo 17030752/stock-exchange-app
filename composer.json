@@ -1,0 +1,15 @@
+{
+    "name": "d17030752/stock",
+    "autoload": {
+        "psr-4": {
+            "D17030752\\Stock\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "17030752",
+            "email": "64864689+17030752@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
